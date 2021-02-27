@@ -1,0 +1,32 @@
+1)Εκτελούμε το αρχέιο node-v12.17.0-x64 και εγκαταστάμε το nodejs
+
+2)Εκτελούμε το αρχείο xampp-windows-x64-7.4.6-0-VC15-installer και εγκαταστάμε το xampp
+
+3)Ανοίγουμε το XAMPP controll panel και ενεργοποιούμε τα services apache και mysql
+
+4)Κάνουμε import το αρχείο pharmacy.sql από το phpmyadmin control panel του xampp
+
+5)Ανοίγουμε τον φάκελο REST_API, πατάμε Shift + δεξί κλικ μέσα στον φάκελο και διαλέγουμε την επιλογή "OPEN COMMAND WINDOW HERE".
+Αν δεν υπάρχει η επιλογή αυτή, διαλέγουμε την επιλογή "Open PowerShell Window here".
+
+6)Στο παράθυρο που θα ανοίξει από το βήμα 4, γράφουμε μία μία τις παρακάτω εντολές:
+
+npm install express
+
+npm i mysql
+
+npm i body-parser
+
+npm i bcrypt
+
+npm i jsonwebtoken
+
+npm run start
+
+7)Εγκαταστάμε την Java μέσω του αρχείου jdk-8u251-windows-x64
+
+8) Ανοίγουμε το Πρόγραμμα(PharmaStore.jar) και είμαστε έτοιμοι
+
+Σημείωση: Για να συνδεθούμε στο πρόγραμμα σαν διαχειριστής και 
+να μπορούμε να κάνουμε επεξεργασία δικαιωμάτων χρήστων
+βαζουμε USERNAME: ADMIN και password: admin123

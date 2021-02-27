@@ -1,0 +1,61 @@
+Date : 2020-05-31 00:21:30
+Directory : e:\BACK UP\node_js_projects\REST_API
+Total : 26 files,  3605 codes, 6 comments, 73 blanks, all 3684 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          2 |      1,885 |          0 |          2 |      1,887 |
+| JavaScript |         24 |      1,720 |          6 |         71 |      1,797 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                          | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                             |         26 |      3,605 |          6 |         73 |      3,684 |
+| api                                                                           |         21 |      1,665 |          5 |         53 |      1,723 |
+| api\clients                                                                   |          3 |        169 |          0 |          9 |        178 |
+| api\invoices                                                                  |          3 |        234 |          0 |          7 |        241 |
+| api\orders                                                                    |          3 |        530 |          0 |          8 |        538 |
+| api\permissions                                                               |          3 |        165 |          0 |          7 |        172 |
+| api\products                                                                  |          3 |        172 |          0 |          7 |        179 |
+| api\providers                                                                 |          3 |        172 |          0 |          7 |        179 |
+| api\users                                                                     |          3 |        223 |          5 |          8 |        236 |
+| auth                                                                          |          1 |         19 |          0 |          1 |         20 |
+| config                                                                        |          1 |         10 |          0 |          4 |         14 |
++-------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                      | language   | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| e:\BACK UP\node_js_projects\REST_API\api\clients\client.controller.js         | JavaScript |         78 |          0 |          3 |         81 |
+| e:\BACK UP\node_js_projects\REST_API\api\clients\client.router.js             | JavaScript |          9 |          0 |          2 |         11 |
+| e:\BACK UP\node_js_projects\REST_API\api\clients\client.service.js            | JavaScript |         82 |          0 |          4 |         86 |
+| e:\BACK UP\node_js_projects\REST_API\api\invoices\invoice.controller.js       | JavaScript |        114 |          0 |          3 |        117 |
+| e:\BACK UP\node_js_projects\REST_API\api\invoices\invoice.router.js           | JavaScript |         11 |          0 |          2 |         13 |
+| e:\BACK UP\node_js_projects\REST_API\api\invoices\invoice.service.js          | JavaScript |        109 |          0 |          2 |        111 |
+| e:\BACK UP\node_js_projects\REST_API\api\orders\order.controller.js           | JavaScript |        197 |          0 |          3 |        200 |
+| e:\BACK UP\node_js_projects\REST_API\api\orders\order.router.js               | JavaScript |         17 |          0 |          2 |         19 |
+| e:\BACK UP\node_js_projects\REST_API\api\orders\order.service.js              | JavaScript |        316 |          0 |          3 |        319 |
+| e:\BACK UP\node_js_projects\REST_API\api\permissions\permission.controller.js | JavaScript |         78 |          0 |          3 |         81 |
+| e:\BACK UP\node_js_projects\REST_API\api\permissions\permission.router.js     | JavaScript |          9 |          0 |          2 |         11 |
+| e:\BACK UP\node_js_projects\REST_API\api\permissions\permission.service.js    | JavaScript |         78 |          0 |          2 |         80 |
+| e:\BACK UP\node_js_projects\REST_API\api\products\product.controller.js       | JavaScript |         78 |          0 |          3 |         81 |
+| e:\BACK UP\node_js_projects\REST_API\api\products\product.router.js           | JavaScript |          9 |          0 |          2 |         11 |
+| e:\BACK UP\node_js_projects\REST_API\api\products\product.service.js          | JavaScript |         85 |          0 |          2 |         87 |
+| e:\BACK UP\node_js_projects\REST_API\api\providers\provider.controller.js     | JavaScript |         84 |          0 |          3 |         87 |
+| e:\BACK UP\node_js_projects\REST_API\api\providers\provider.router.js         | JavaScript |          9 |          0 |          2 |         11 |
+| e:\BACK UP\node_js_projects\REST_API\api\providers\provider.service.js        | JavaScript |         79 |          0 |          2 |         81 |
+| e:\BACK UP\node_js_projects\REST_API\api\users\user.controller.js             | JavaScript |        109 |          0 |          4 |        113 |
+| e:\BACK UP\node_js_projects\REST_API\api\users\user.router.js                 | JavaScript |         10 |          0 |          2 |         12 |
+| e:\BACK UP\node_js_projects\REST_API\api\users\user.service.js                | JavaScript |        104 |          5 |          2 |        111 |
+| e:\BACK UP\node_js_projects\REST_API\app.js                                   | JavaScript |         26 |          1 |         13 |         40 |
+| e:\BACK UP\node_js_projects\REST_API\auth\token_validation.js                 | JavaScript |         19 |          0 |          1 |         20 |
+| e:\BACK UP\node_js_projects\REST_API\config\database.js                       | JavaScript |         10 |          0 |          4 |         14 |
+| e:\BACK UP\node_js_projects\REST_API\package-lock.json                        | JSON       |      1,862 |          0 |          1 |      1,863 |
+| e:\BACK UP\node_js_projects\REST_API\package.json                             | JSON       |         23 |          0 |          1 |         24 |
+| Total                                                                         |            |      3,605 |          6 |         73 |      3,684 |
++-------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

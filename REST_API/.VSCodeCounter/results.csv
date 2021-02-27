@@ -1,0 +1,28 @@
+"filename", "language", "JSON", "JavaScript", "comment", "blank", "total"
+"e:\BACK UP\node_js_projects\REST_API\api\clients\client.controller.js", "JavaScript", 0, 78, 0, 3, 81
+"e:\BACK UP\node_js_projects\REST_API\api\clients\client.router.js", "JavaScript", 0, 9, 0, 2, 11
+"e:\BACK UP\node_js_projects\REST_API\api\clients\client.service.js", "JavaScript", 0, 82, 0, 4, 86
+"e:\BACK UP\node_js_projects\REST_API\api\invoices\invoice.controller.js", "JavaScript", 0, 114, 0, 3, 117
+"e:\BACK UP\node_js_projects\REST_API\api\invoices\invoice.router.js", "JavaScript", 0, 11, 0, 2, 13
+"e:\BACK UP\node_js_projects\REST_API\api\invoices\invoice.service.js", "JavaScript", 0, 109, 0, 2, 111
+"e:\BACK UP\node_js_projects\REST_API\api\orders\order.controller.js", "JavaScript", 0, 197, 0, 3, 200
+"e:\BACK UP\node_js_projects\REST_API\api\orders\order.router.js", "JavaScript", 0, 17, 0, 2, 19
+"e:\BACK UP\node_js_projects\REST_API\api\orders\order.service.js", "JavaScript", 0, 316, 0, 3, 319
+"e:\BACK UP\node_js_projects\REST_API\api\permissions\permission.controller.js", "JavaScript", 0, 78, 0, 3, 81
+"e:\BACK UP\node_js_projects\REST_API\api\permissions\permission.router.js", "JavaScript", 0, 9, 0, 2, 11
+"e:\BACK UP\node_js_projects\REST_API\api\permissions\permission.service.js", "JavaScript", 0, 78, 0, 2, 80
+"e:\BACK UP\node_js_projects\REST_API\api\products\product.controller.js", "JavaScript", 0, 78, 0, 3, 81
+"e:\BACK UP\node_js_projects\REST_API\api\products\product.router.js", "JavaScript", 0, 9, 0, 2, 11
+"e:\BACK UP\node_js_projects\REST_API\api\products\product.service.js", "JavaScript", 0, 85, 0, 2, 87
+"e:\BACK UP\node_js_projects\REST_API\api\providers\provider.controller.js", "JavaScript", 0, 84, 0, 3, 87
+"e:\BACK UP\node_js_projects\REST_API\api\providers\provider.router.js", "JavaScript", 0, 9, 0, 2, 11
+"e:\BACK UP\node_js_projects\REST_API\api\providers\provider.service.js", "JavaScript", 0, 79, 0, 2, 81
+"e:\BACK UP\node_js_projects\REST_API\api\users\user.controller.js", "JavaScript", 0, 109, 0, 4, 113
+"e:\BACK UP\node_js_projects\REST_API\api\users\user.router.js", "JavaScript", 0, 10, 0, 2, 12
+"e:\BACK UP\node_js_projects\REST_API\api\users\user.service.js", "JavaScript", 0, 104, 5, 2, 111
+"e:\BACK UP\node_js_projects\REST_API\app.js", "JavaScript", 0, 26, 1, 13, 40
+"e:\BACK UP\node_js_projects\REST_API\auth\token_validation.js", "JavaScript", 0, 19, 0, 1, 20
+"e:\BACK UP\node_js_projects\REST_API\config\database.js", "JavaScript", 0, 10, 0, 4, 14
+"e:\BACK UP\node_js_projects\REST_API\package-lock.json", "JSON", 1862, 0, 0, 1, 1863
+"e:\BACK UP\node_js_projects\REST_API\package.json", "JSON", 23, 0, 0, 1, 24
+"Total", "-", 1885, 1720, 6, 73, 3684
